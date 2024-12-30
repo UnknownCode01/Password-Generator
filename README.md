@@ -25,13 +25,13 @@ A React-based web application designed to generate secure passwords based on use
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/YourUsername/your-repository-name.git
+git clone https://github.com/UnknownCode01/Password-Generator.git
 ```
 
 ### 2. Navigate to the Project Directory
 
 ```bash
-cd your-repository-name
+cd Password-Generator
 ```
 
 ### 3. Install Dependencies
