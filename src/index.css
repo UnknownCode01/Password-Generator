@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.clickable-button {
+    /* background-color: #4CAF50; Green background */
+    /* border: none;
+    color: white; Text color */
+    /* padding: 15px 32px; /* Padding around text */
+    /* text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px; */
+    /* border-radius: 8px; Rounded corners */ 
+    cursor: pointer; /* Makes the cursor a hand when hovering over */
+    transition: all 0.3s ease; /* Smooth transition effect */
+  }
+  
+  .clickable-button:hover {
+    background-color: #1e86c2; /* Darker green on hover */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Shadow to simulate depth */
+  }
+  
+  .clickable-button:active {
+    transform: scale(0.98); /* Slightly shrink the button on click */
+  }
+  
